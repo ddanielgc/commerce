@@ -1,14 +1,14 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "AgroSale | Building the Agro future in Brazil",
+  "titleTemplate": "%s - AgroSale",
+  "description": "Building the Agro future in Brazil",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "AgroSale | Building the Agro future in Brazil",
+    "description": "AgroSale | Building the Agro future in Brazil",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://www.agrosale.com.br",
+    "site_name": "AgroSale",
     "images": [
       {
         "url": "/card.png",
@@ -19,8 +19,8 @@
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@agrosale",
+    "site": "@agrosale",
     "cardType": "summary_large_image"
   }
 }
