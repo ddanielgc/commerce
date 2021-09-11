@@ -43,19 +43,11 @@ export default function Home({
     <>
       <Image
         alt={'Agrosale Image'}
-        // className={s.productImage}
         src={'/assets/cover.png'}
-        height={1000}
-        width={2258}
         quality="100"
-        layout="responsive"
-        //{...imgProps}
+        layout="fill"
+        objectFit="cover"
       />
-      {/* <HomeAllProductsGrid
-        newestProducts={products}
-        categories={categories}
-        brands={brands}
-      /> */}
     </>
   )
 }
