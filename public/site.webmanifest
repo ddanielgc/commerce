@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/agrosale_logo-192x192.png",
+      "src": "/agrosale_logo-filled-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/agrosale_logo-512x512.png",
+      "src": "/agrosale_logo-filled-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
